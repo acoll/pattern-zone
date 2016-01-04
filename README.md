@@ -1,6 +1,6 @@
-# testyyyyy
+# Pattern Zone
 
-> Its pretty asesome but a secret
+> Its pretty awesome but a secret
 
 ## Build Setup
 
@@ -18,4 +18,3 @@ npm run build
 npm test
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).

@@ -1,6 +1,6 @@
 {
-  "name": "testyyyyy",
-  "description": "Its pretty asesome but a secret",
+  "name": "pattern-zone",
+  "description": "Its pretty awesome but a secret",
   "author": "Adam (that&#x27;s me)",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --config build/webpack.dev.conf.js",
